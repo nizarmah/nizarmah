@@ -19,4 +19,4 @@ I code to make a living, automate tedious tasks, and escape reality. I love tryi
 
 If you like what I do, consider joining my [Patreon](https://www.patreon.com/nizarmah)!
 
-![Visits Badge](https://badges.pufler.dev/visits/nizarmah/nizarmah)
+![Visits Badge](https://badges.pufler.dev/visits/nizarmah/nizarmah?color=FF1654&logo=github)
