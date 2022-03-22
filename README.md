@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I code to make a living, automate tedious tasks, and escape reality. I love trying to create things I wish were real; whether they are stuff I see in movies or think of. I also love talking and writing. Lately, I've been writing some [blogs](https://dev.to/nizarmah_).
-
-If you like what I do, consider joining my [Patreon](https://www.patreon.com/nizarmah)!
+I code to make a living, automate tedious tasks, and escape reality. I love trying to create things I wish were real; whether they are stuff I see in movies or think of. I also love talking and [writing](https://dev.to/nizarmah_).
