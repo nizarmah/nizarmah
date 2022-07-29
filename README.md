@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a language agnostic passionate about software design.
+I'm a language agnostic software engineer passionate about software design.
