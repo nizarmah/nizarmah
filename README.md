@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a language agnostic software engineer passionate about software design.
+I love open source and learning on the run.
+
+I'm currently working as a platform backend engineer with Typescript.
+I'm also playing around with Go and building the ideas I need.
+
+I'm learning to keep things simple again. I'm enjoying every bit of it.
+I'm also practicing being more intentional and consistent.
